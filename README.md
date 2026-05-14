@@ -38,7 +38,7 @@ data/ → Mock data
 
 ### Clone the repository
 
-git clone https://github.com/your-username/zerodha-clone.git
+git clone [https://github.com/DharshiniMR/Stock_Trading_Platform.git]
 
 ### Install dependencies and run frontend
 

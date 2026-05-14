@@ -67,8 +67,7 @@ This project was built to practice:
 
 ## 👨‍💻 Author
 
-Your Name
-
+DHARSHINI M R
 ---
 
 ## ⭐ Note
